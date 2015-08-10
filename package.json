@@ -1,6 +1,6 @@
 {
   "name": "language-todo-extra-words",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Extra words highlighting support in Atom",
   "keywords": [
     "todo"
