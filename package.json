@@ -1,0 +1,14 @@
+{
+  "name": "language-todo-extra-words",
+  "version": "0.0.0",
+  "description": "Extra words highlighting support in Atom",
+  "keywords": [
+    "todo"
+  ],
+  "repository": "https://github.com/dkiyatkin/atom-language-todo-extra-words",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+}
